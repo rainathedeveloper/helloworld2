@@ -1,1 +1,2 @@
+Inserting a new line after first commit.
 This is my second file that i will commit to the git repository.
